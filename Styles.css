@@ -1,0 +1,39 @@
+#Blue-bg {
+    background-color: rgb(175, 215, 253);
+    height: 500px;
+    padding-top: 120px;
+    width: 90%;
+    margin: auto;
+    box-shadow: 0px 0px 12px rgb(160, 157, 157);
+}
+
+#Icon {
+    display: grid;
+    grid-template-rows: 4fr 3fr;
+    height: 65%;
+    width: 15%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#Image {
+    height: 90%;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#Text {
+    font-weight: bold;
+    font-family: Outfit;
+    text-align: center;
+    font-size: 15px;
+}
+
+#Description {
+    color: rgb(163, 163, 163);
+    font-size: 11px;
+    text-align: center;
+}
